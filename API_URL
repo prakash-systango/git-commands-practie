@@ -1,0 +1,4 @@
+Product_details : http://localhost:8081/get/Product_details
+Product_details_with Sales_tax : http://localhost:8081/get/SalesTaxAmount
+Product_name and Country : http://localhost:8081/get/country/product
+Json_data : http://localhost:8081/get/product_Details/json

@@ -1,0 +1,48 @@
+[
+    {
+      "name" : "fan",
+      "country":"India",
+      "costPrice":"1500",
+      "tax":"15"   
+  },
+
+  {
+    "name" : "AC",
+    "country":"Aus",
+    "costPrice":"2500",
+    "tax":"25"   
+}
+,
+
+  {
+    "name" : "Cooler",
+    "country":"Englend",
+    "costPrice":"3500",
+    "tax":"11"   
+}
+,
+
+  {
+    "name" : "Tv",
+    "country":"America",
+    "costPrice":"4700",
+    "tax":"22"   
+}
+,
+
+  {
+    "name" : "Iphone",
+    "country":"America",
+    "costPrice":"80000",
+    "tax":"15"   
+}
+,
+
+
+  {
+    "name" : "MacBook",
+    "country":"America",
+    "costPrice":"150000",
+    "tax":"15"   
+}
+]
